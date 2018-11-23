@@ -1,0 +1,12 @@
+body {
+  background-color: black;
+}
+
+canvas {
+  margin: auto;
+  display: block;
+}
+
+input {
+  width: 100%;
+}
